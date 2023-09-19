@@ -1,7 +1,7 @@
 ## Enumeration
-## Enumeration Techniques
+Enumeration Techniques
 
-Explore Google hacking and enumeration
+## Explore Google hacking and enumeration
 
 ## AIM:
 To Compromise windows using Metasploit .
